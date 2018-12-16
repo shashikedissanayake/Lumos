@@ -10,8 +10,8 @@
 #include <ESP8266WiFi.h>
 
 
-const char* ssid     = "KDA";
-const char* password = "mniKiriNeruGonta!";
+const char* ssid     = "xxxx";
+const char* password = "xxxxxxx";
 
 const char* host = "192.168.8.100";
 String id   = "1";
